@@ -1,0 +1,21 @@
+.card__button {
+  width: 100%;
+  padding: 17px 120px;
+  margin-top: 2rem;
+  font-size: 18px;
+  font-weight: 500;
+  color: white;
+  background-color: #303B59;
+  border: none;
+  border-radius: 128px;
+  transition: hover 0.3s ease-in;               
+  cursor: pointer;
+}
+
+.card__button:hover {
+  background: linear-gradient(180deg, #7755FF 0%, #6943FF 0%, #2F2CE9 100%);
+}
+
+.card__button:focus {
+  outline: 1px solid red;
+}
