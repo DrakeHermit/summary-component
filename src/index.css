@@ -10,8 +10,15 @@
 }
 
 body {
-  background-color: #ECF2FF;
   font-family: 'HankenGrotesk', sans-serif;
 }
 
-
+@media screen and (min-width: 768px) {
+  body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ECF2FF;
+  }
+}

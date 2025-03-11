@@ -1,7 +1,7 @@
 import { CategoryList } from "../Category/CategoryList";
-import "./BottomCard.css";
+import "./InnerCard.css";
 
-export const BottomCard = () => {
+export const InnerCard = () => {
   return (
     <div className="card__container">
       <h2 className="card__title">Summary</h2>

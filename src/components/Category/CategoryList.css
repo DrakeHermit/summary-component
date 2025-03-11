@@ -56,3 +56,9 @@ ul {
   font-weight: 600;
   background:#1125D609;
 }
+
+@media screen and (min-width: 768px) {
+  .category__list p {
+    font-size: 18px;
+  }
+}

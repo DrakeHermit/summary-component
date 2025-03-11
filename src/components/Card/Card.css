@@ -16,7 +16,6 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-size: 24px;
   color: #333;
   margin: 0 auto 20px;
 }
@@ -53,4 +52,38 @@
 .card__status-description {
   color: #CAC9FF;
   font-weight: 500;
+}
+
+@media screen and (min-width: 768px) {
+  .card__top-container {
+    width: 368px;
+    border-radius: 32px;
+  }
+
+  .card__top-header {
+    font-size: 24px;
+    margin: 18px 0 35px 0;
+  }
+
+  .card__circle {
+    width: 200px;
+    height: 200px;
+  }
+
+  .circle__score {
+    font-size: 72px;
+  }
+
+  .circle__score-total {
+    font-size: 18px;
+  }
+
+  .card__status-text {
+    font-size: 28px;
+    margin-bottom: 14px;
+  }
+
+  .card__status-description {
+    font-size: 18px;
+  }
 }
