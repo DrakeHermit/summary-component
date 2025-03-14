@@ -26,7 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-
+![](./src/assets/images/Screenshot%202025-03-14%20185948.png)
+![](./src/assets/images/Screenshot%202025-03-14%20190343.png)
 
 ### Links
 
@@ -34,6 +35,8 @@ Users should be able to:
 - Live Site URL: [Live Site](https://your-live-site-url.com)
 
 ## My process
+
+I started with planning how to organize my code in react. After I finally came up with my folder structure I started by writing the components and the css for each component. After finishing the mobile design I moved onto the tablet and desktop design which is the same.
 
 ### Built with
 
@@ -45,11 +48,11 @@ Users should be able to:
 
 ### What I learned
 
-
+I learned how to structure my react project, is it perfect I don't think so but I tried my best to make it somewhat logical. I also made a folder for utility functions and honestly that is probably the highlight of this project since it was pretty simple. The hardest part was figuring out how I should structure it in react.
 
 ### Continued development
 
-
+My plan is to go over the whole path and become proficient in using react. Adding tailwind and ts is the next logical thing beyond learning the core concepts of react.
 
 ## Author
 
