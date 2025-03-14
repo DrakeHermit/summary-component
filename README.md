@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./src/assets/images/Screenshot%202025-03-14%20185948.png)
-![](./src/assets/images/Screenshot%202025-03-14%20190343.png)
+![](./public/images/Screenshot%202025-03-14%20185948.png)
+![](./public/images/Screenshot%202025-03-14%20190343.png)
 
 ### Links
 
 - Solution URL: [GitHub](https://github.com/DrakeHermit/summary-component)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://drakehermit-summary-component.netlify.app/)
 
 ## My process
 
